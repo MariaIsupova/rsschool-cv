@@ -16,8 +16,8 @@ Graphic editor
  * Photoshop, Illustrator, Figma, Sketch
 
 ### Code examples
- * https://github.com/MariaIsupova/Check-in-HSE
- * Django app https://github.com/MariaIsupova/Noteria
+ * [https://github.com/MariaIsupova/Check-in-HSE](https://github.com/MariaIsupova/Check-in-HSE)
+ * Django app [https://github.com/MariaIsupova/Noteria](https://github.com/MariaIsupova/Noteria)
 
 ### Experience
 Application for automating the registration process for events ["Check-in-HSE"](https://github.com/MariaIsupova/Check-in-HSE)
