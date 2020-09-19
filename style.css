@@ -1,0 +1,61 @@
+body {
+	font: 16px Tahoma, sans-serif;
+    background-color: #FFE4DD;
+}
+
+.form-wrap{
+    background-color: rgba(255, 255, 255, 0.8 );
+    margin: 30px 10%;
+    padding:  8%;
+}
+
+.person{
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.avatar{ 
+    width: 150px;
+    height:  150px;
+}
+
+@media(max-width: 500px){
+    .form-wrap{
+        margin: 20px 5%;
+        padding: 5%;
+    }
+    .avatar{
+        height: 100px ;
+        width: 100px;
+    }
+  
+}
+
+h1{
+    display: inline-block;
+    margin: auto 10px;
+    font-size: 44px;
+}
+
+
+.location{
+    font-style: italic;
+    padding-left: 15px;
+}
+
+.no-bull{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+p{
+    margin: 10px 0;
+}
+
+ul{
+    margin: 10px 0;
+}
